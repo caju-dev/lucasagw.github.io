@@ -4,9 +4,14 @@ Meu nome é Lucas.
 
 Moro em Salvador, BA, Brasil.
 
-# Repositório público do Prof. Gustavo Guanabara
+# Repositório público do Lucas Augusto A. G. Walter
 
-Material usado durante as minhas aulas presenciais, mas que estou organizando aqui em um repositório público para o acesso de todos.
+Olá!
+
+Meu nome é Lucas.
+
+Moro em Salvador, BA, Brasil.
+
 
 <img align="right" src="images/mascote-html5.png" width="200">
 
