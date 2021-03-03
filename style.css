@@ -1,14 +1,10 @@
 @charset "UTF-8";
-html,
-
 
 body {
-  align-items: center;
-  
-} 
+  height: 100%;
+}
 
 .sublinhado {
-  ext-decoration: underline;  
-        
+  ext-decoration: underline;         
 }
 
